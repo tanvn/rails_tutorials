@@ -34,4 +34,4 @@ test:
 
 production:
   <<: *default
-  database: db/production.sqlite3
+  database: rails_tutorial_production
